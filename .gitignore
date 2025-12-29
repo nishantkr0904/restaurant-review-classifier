@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+ruff_cache/
+.cache/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local downloads (if you use NLTK data locally)
+nltk_data/
